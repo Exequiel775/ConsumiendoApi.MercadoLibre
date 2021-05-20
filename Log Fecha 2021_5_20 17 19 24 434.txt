@@ -1,0 +1,303 @@
+User ID: 179571326 
+Title ID:MLA921280437
+Title Descripcion: Apc Easy Ups Bv Bv650i-ar 650va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA919281388
+Title Descripcion: Apc Back-ups Pro 1500 Br1500g-ar 1500va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA915943267
+Title Descripcion:Notebook Dell Inspiron 3501 Negra 15.6 , Intel Core I3 1005g1  4gb De Ram 1tb Hdd, Intel Uhd Graphics 60 Hz 1366x768px Linux Ubuntu
+Category ID:MLA1652
+Category Name:Notebooks
+-
+User ID: 179571326 
+Title ID:MLA921398602
+Title Descripcion: Apc Back-ups Bx550ci-ar 550va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA912270438
+Title Descripcion: Apc Back-ups Bx1100ci-ar 1100va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA912273972
+Title Descripcion: Apc Back-ups Br550g-ar 550va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA912269991
+Title Descripcion: Apc Back-ups Br900g-ar 900va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA913997022
+Title Descripcion:Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  8gb De Ram 1tb Hdd, Intel Uhd Graphics 60 Hz 1366x768px Windows 10 Pro
+Category ID:MLA1652
+Category Name:Notebooks
+-
+User ID: 179571326 
+Title ID:MLA917487099
+Title Descripcion:Monitor Dell E2420h Led 24   Negro 100v/240v
+Category ID:MLA14407
+Category Name:Monitores
+-
+User ID: 179571326 
+Title ID:MLA921334051
+Title Descripcion: Apc Smart-ups Rc Src2ki-ar 2000va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA884736096
+Title Descripcion:Router Cisco Rv Series Rv340 Negro 100v/240v
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA884735636
+Title Descripcion:Router Cisco Rv Series Rv345 Negro 100v/240v
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA912269713
+Title Descripcion: Apc Back-ups Pro 1200 Br1200g-ar 1200va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA920272271
+Title Descripcion: Apc Easy Ups Bv500i-ar 500va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA874472550
+Title Descripcion:Router Linksys Ea-series Ea6100 Negro 100v/240v
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA917517155
+Title Descripcion:Switch Cisco Sg110d-08 Serie 110
+Category ID:MLA1708
+Category Name:Switches
+-
+User ID: 179571326 
+Title ID:MLA917517053
+Title Descripcion: Apc Back-ups Bx800ci-ar 800va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA918321811
+Title Descripcion:Monitor Dell E2720h Led 27   Negro 100v/240v
+Category ID:MLA14407
+Category Name:Monitores
+-
+User ID: 179571326 
+Title ID:MLA919877335
+Title Descripcion:Notebook Dell Inspiron 5593 Platinum Silver 15.6 , Intel Core I5 1035g1  8gb De Ram 256gb Ssd, Intel Uhd Graphics 1920x1080px Windows 10 Home
+Category ID:MLA1652
+Category Name:Notebooks
+-
+User ID: 179571326 
+Title ID:MLA884736134
+Title Descripcion:Router Cisco Small Business Rv260w-a Negro
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA870592467
+Title Descripcion:Router Linksys E2500 Negro
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA917080102
+Title Descripcion:Monitor Gamer Dell Professional P2719h Led 27   Negro 100v/240v
+Category ID:MLA14407
+Category Name:Monitores
+-
+User ID: 179571326 
+Title ID:MLA884735834
+Title Descripcion:Repetidor Linksys Re6500 Negro
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA917516307
+Title Descripcion: Apc Smart-ups Srt Srt5kxli 5000va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA919345379
+Title Descripcion:Router Linksys Lrt214 Negro Y Azul
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA912272809
+Title Descripcion: Apc Smart-ups Rc Src3000xli 3000va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA917515758
+Title Descripcion: Apc Easy Ups Srv6ki 6000va Entrada Y Salida De 230v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA876794922
+Title Descripcion:Impresora Multifunción Lexmark Mb2546adwe Con Wifi Gris Y Blanca 220v
+Category ID:MLA1676
+Category Name:Impresoras
+-
+User ID: 179571326 
+Title ID:MLA917517444
+Title Descripcion:Switch Cisco Sg250-50p Serie 250
+Category ID:MLA1708
+Category Name:Switches
+-
+User ID: 179571326 
+Title ID:MLA917206103
+Title Descripcion:Switch Cisco Sg350-28p Serie 350
+Category ID:MLA1708
+Category Name:Switches
+-
+User ID: 179571326 
+Title ID:MLA912273096
+Title Descripcion: Apc Easy Ups Srv3000 Srv3ki-ar 3000va Entrada Y Salida De 220v/240v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA919422304
+Title Descripcion:Access Point, Router Linksys Mr8300 Negro 100v/240v
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA863267784
+Title Descripcion:Monitor Gamer Dell Professional P2018h Led 20   Negro 100v/240v
+Category ID:MLA14407
+Category Name:Monitores
+-
+User ID: 179571326 
+Title ID:MLA898898561
+Title Descripcion:Repetidor, Router, Sistema Wi-fi Mesh Linksys Velop Wifi Intelligent Mesh Blanco 100v/240v
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA919421624
+Title Descripcion:Access Point, Router Linksys Max-stream Ea7300 Negro 100v/240v
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA917206050
+Title Descripcion:Switch Cisco Sg350-52 Sg Serie 350
+Category ID:MLA1708
+Category Name:Switches
+-
+User ID: 179571326 
+Title ID:MLA914634860
+Title Descripcion:Access Point Interior Cisco 100 Series Wap150 Blanco
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA919620915
+Title Descripcion:Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  4gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro
+Category ID:MLA1652
+Category Name:Notebooks
+-
+User ID: 179571326 
+Title ID:MLA919620195
+Title Descripcion:Notebook Dell Vostro 3490 Negra 14 , Intel Core I5 10210u  16gb De Ram 1tb Hdd, Intel Hd Graphics 60 Hz 1366x768px Windows 10 Pro
+Category ID:MLA1652
+Category Name:Notebooks
+-
+User ID: 179571326 
+Title ID:MLA912274211
+Title Descripcion: Apc Smart-ups Smt3000r2i-ar 3000va Entrada Y Salida De 220v/240v Negro
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA604049998
+Title Descripcion:Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Bv650
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA614270244
+Title Descripcion:Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA838039921
+Title Descripcion:Ups Apc Bv800i-ar 800v 4t Estabilizador Pc Gamer Simil Bx800
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA674808363
+Title Descripcion:Notebook Laptop Dell Inspiron I3 4gb 15.6 1tb Win 10 Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B - Oferta
+Category ID:MLA1652
+Category Name:Notebooks
+-
+User ID: 179571326 
+Title ID:MLA777628422
+Title Descripcion:Router Cisco Rv260w Dual Band Vpn Firewall Wifi N Rv260
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA696010903
+Title Descripcion:Ups Apc Src2ki-ar 2000va Online Tower Src2ki
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA640303035
+Title Descripcion:Ups Apc Br1500g 1500va Estabilizador  Gtia 2 Años Br1500g-ar
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA723894205
+Title Descripcion:Router Cisco Dual Wan Vpn Firewall Rv340-k9 Oferta Gtia Oficial - Factura A Y B
+Category ID:MLA430901
+Category Name:Routers
+-
+User ID: 179571326 
+Title ID:MLA919259083
+Title Descripcion:Ups Apc Easy Bv650i-ar 650va Gtia Oficial 2 Años Oferta
+Category ID:MLA1720
+Category Name:UPS
+-
+User ID: 179571326 
+Title ID:MLA919093001
+Title Descripcion:Notebook Dell Inspiron I7 32gb 256ssd + 1tb Fhd 15,6 Ubuntu
+Category ID:MLA1652
+Category Name:Notebooks
+-
+De el/los siguientes ids no se encontraron resultados.
+4727473
+71737271
