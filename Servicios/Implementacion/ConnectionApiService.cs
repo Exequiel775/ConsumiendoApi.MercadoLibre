@@ -5,7 +5,7 @@ namespace Consumi.Api.ML.Servicios.Implementacion
     using System.Net.Http;
     using System;
     using Newtonsoft.Json;
-    public class ConexionApiService<T> : IConexionApiService<T> where T : class
+    public class ConnectionApiService<T> : IConnectionApiService<T> where T : class
     {
         public async Task<T> GetConnectionApi(string url, string requestUri)
         {

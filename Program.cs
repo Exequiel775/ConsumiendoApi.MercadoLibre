@@ -10,6 +10,7 @@
             int selectedOptioon = 0;
             do
             {
+                Console.Clear();
                 Console.WriteLine("Consulta de productos por vendedor");
                 Console.WriteLine("Al ingresar el id de los vendedores debe separarlos por un espacio y una coma.");
                 Console.WriteLine("Por ejemplo: 123456, 431124, 12312312, 312312");

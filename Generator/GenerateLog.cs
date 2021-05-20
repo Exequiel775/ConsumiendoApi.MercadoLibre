@@ -11,17 +11,17 @@ namespace Consumi.Api.ML.Generator
 
     public class GenerateLog
     {
-        private readonly IConexionApiService<ApiMercadoLibre.Root> _apiServiceRoot;
-        private readonly IConexionApiService<ApiMercadoLibre.Categorias> _apiServiceCategories;
+        private readonly IConnectionApiService<ApiMercadoLibre.Root> _apiServiceRoot;
+        private readonly IConnectionApiService<ApiMercadoLibre.Categorias> _apiServiceCategories;
         private string urlApi = "https://api.mercadolibre.com";
         private string path = Directory.GetCurrentDirectory();
         public GenerateLog()
-        : this(new ConexionApiService<ApiMercadoLibre.Root>(), new ConexionApiService<ApiMercadoLibre.Categorias>())
+        : this(new ConnectionApiService<ApiMercadoLibre.Root>(), new ConnectionApiService<ApiMercadoLibre.Categorias>())
         {
 
         }
 
-        public GenerateLog(IConexionApiService<ApiMercadoLibre.Root> apiServiceRoot, IConexionApiService<ApiMercadoLibre.Categorias> apiServiceCategories)
+        public GenerateLog(IConnectionApiService<ApiMercadoLibre.Root> apiServiceRoot, IConnectionApiService<ApiMercadoLibre.Categorias> apiServiceCategories)
         {
             _apiServiceRoot = apiServiceRoot;
             _apiServiceCategories = apiServiceCategories;
